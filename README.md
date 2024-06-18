@@ -30,8 +30,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./assets/images/Desktop-Design.png)Desktop-Design
-![](./assets/images/Mobile-Design.png)Mobile-Design
+![](./assets/images/Desktop-Design.png)
+
+Desktop-Design
+![](./assets/images/Mobile-Design.png)
+
+Mobile-Design
 
 ### Links
 
