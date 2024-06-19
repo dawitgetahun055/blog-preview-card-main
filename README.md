@@ -40,8 +40,8 @@ Mobile-Design
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/dawitgetahun055/blog-preview-card-main)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution](https://github.com/dawitgetahun055/blog-preview-card-main)
+- Live Site URL: [Live URL](https://frontendmentorblogpreview.netlify.app/)
 
 ## My process
 
